@@ -1,2 +1,2 @@
 # WeatherWizzard
-A weather app i'm working onwith BIgSnake Django
+A weather app i'm working on with BIgSnake Django
